@@ -1,7 +1,7 @@
 ![Design and Development](https://github.com/adilelmoba/adilelmoba/blob/main/readme-bg-adil.jpg)
 
 # Adil EL MOBACHI
-I’m Adil, a Front-End Developer based in Charleville-Mézières, France. I have serious passion for UI interfaces, building and creating intuitive, dynamic user experiences.
+I’m Adil, a Front-End Developer based in Paris, France. I have serious passion for UI interfaces, building and creating intuitive, dynamic user experiences.
 
 ## Skills and Experience
 * 💻 HTML, CSS, JavaScript
